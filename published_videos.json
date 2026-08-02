@@ -62,5 +62,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-4433cc1a-014e-4187-87de-0afe78b1e872 (1).mp4",
+        "metadata": {
+            "title": "Fashion for Real Life, Every Day",
+            "description": "Creativity is the soul of personal style. Mixing textures, playing with color, and trying unexpected combinations keeps fashion exciting. There are no mistakes \u2014 only discoveries. What's your boldest style choice? Drop it below! \ud83c\udfa8 #creativity #fashion #selfexpression #styleinspo #boldchoices #miyoraaikari",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
