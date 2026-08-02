@@ -78,5 +78,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-4c3da031-6b19-4322-8738-05384c50d30c (1).mp4",
+        "metadata": {
+            "title": "Fashion for Real Life, Every Day",
+            "description": "Beauty lives in the little details \u2014 a perfectly matched lip, a favorite ring, the way light hits your hair. Notice them, celebrate them. You are made of beautiful details. Save this for a self-love reminder. \ud83d\udc95 #beautyindetails #selflove #glowup #confidence #lifestyle #miyoraaikari",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
