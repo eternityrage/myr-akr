@@ -654,5 +654,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-628b1117-658b-476b-9553-728f1b5b6112.mp4",
+        "metadata": {
+            "title": "Beauty in the Little Details",
+            "description": "Inspiration is a habit you can build \u2014 a look you save, a quote you keep, a color palette that lifts you. Curate what feeds your creativity and watch it transform your style. Save this for your inspiration board! \ud83d\udccc #inspiration #moodboard #creativity #styleideas #aestheticliving #miyoraaikari",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
