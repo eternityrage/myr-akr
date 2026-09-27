@@ -2782,5 +2782,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-c8bfb5e2-19b9-43a8-817a-39c8c1fdf8d5.mp4",
+        "metadata": {
+            "title": "Your Daily Glow-Up: An Elegant Outfit + Beauty Moment by Miyora Aikari \u2728",
+            "description": "Today, I\u2019m inviting you into my little world of elegance and creative confidence\u2014where everyday moments become runway-worthy. In this short video, you\u2019ll see a fresh outfit aesthetic paired with a beauty moment that makes me feel instantly more put-together, inspired, and genuinely myself. I want you to try the same \u201csmall upgrade\u201d energy in your day: choose what makes you feel powerful, soften what makes you feel calm, and let your style speak before you do. Like if this inspired you! Comment your favorite look below! Share this with someone who loves aesthetics! Follow Miyora Aikari for daily fashion and beauty inspiration! #fashion #lifestyle #beauty #outfitideas #aesthetics #elegance #confidence #creativity #style #dailyinspiration #selfexpression #beautytips #fashioninspo #miyoraaikari",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
