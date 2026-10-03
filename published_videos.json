@@ -3038,5 +3038,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-27e9f85f-b0b1-41a1-a676-08aea81c2665-720p.mp4",
+        "metadata": {
+            "title": "Grace in Every Detail: An Elegant Everyday Look from Miyora Aikari \u2728",
+            "description": "Today\u2019s video is a little ritual\u2014one of those calm, confident moments where styling becomes self-expression. I\u2019m sharing a refined, polished look that feels effortless but still intentional: the kind of outfit that moves with you through errands, coffee dates, and golden-hour plans. From the finishing touches to the soft beauty details that elevate the whole vibe, you\u2019ll see how small choices create a truly elegant impact. Like if this inspired you! Comment your favorite look below! Share this with someone who loves aesthetics! Follow Miyora Aikari for daily fashion and beauty inspiration! #fashion #lifestyle #beauty #outfitideas #aesthetics #elegance #confidence #creativity #style #dailyinspiration #selfexpression #beautytips #fashioninspo #miyoraaikari",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
