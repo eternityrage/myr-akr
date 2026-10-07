@@ -3230,5 +3230,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-b4e0d623-0500-455a-b0e3-20fd742bf361-720p.mp4",
+        "metadata": {
+            "title": "Turn Everyday Moments Into Runway Magic \u2728 | Miyora Aikari Styling & Glow-Up",
+            "description": "Step into my world where fashion meets feeling\u2014this short video is all about turning simple moments into something elegant, bold, and undeniably you. I\u2019m sharing an outfit aesthetic that feels like confidence you can wear, plus a beauty touch that makes the whole vibe glow from the inside out. Every detail is chosen with self-expression in mind: the colors, the textures, the little styling choices that say \u201cthis is my story,\u201d not someone else\u2019s. If you\u2019ve ever needed a spark to dress for your mood or reinvent your everyday look, this one is for you\u2014like if this inspired you! Comment your favorite look below! Share this with someone who loves aesthetics! Follow Miyora Aikari for daily fashion and beauty inspiration!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
