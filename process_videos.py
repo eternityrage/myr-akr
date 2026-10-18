@@ -133,6 +133,7 @@ def process_single_video(video_path):
             "-c:v", "libx264", "-preset", "slow", "-crf", "16",
             "-profile:v", "high", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "192k",
+            "-movflags", "+faststart",
             out_path
         ]
     else:
@@ -143,6 +144,7 @@ def process_single_video(video_path):
             "-c:v", "libx264", "-preset", "slow", "-crf", "16",
             "-profile:v", "high", "-pix_fmt", "yuv420p",
             "-an",
+            "-movflags", "+faststart",
             out_path
         ]
 
