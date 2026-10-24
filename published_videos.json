@@ -4078,5 +4078,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-5b4698d9-7d06-4a30-931c-35006f4b6f1b-720p.mp4",
+        "metadata": {
+            "title": "a soft-glam day in my life: outfit, glow-up, and confidence cues (miyora aikari) \u2728",
+            "description": "Today I\u2019m taking you with me into a fresh, elegant kind of routine\u2014where the mirror feels like a best friend and every outfit becomes a quiet statement of confidence. From the first styling choice to the final beauty detail, this video is all about turning everyday moments into something you genuinely want to step into. I want you to feel that \u201cI\u2019ve got this\u201d energy, because beauty isn\u2019t just a look\u2014it\u2019s how you carry yourself, how you choose your vibe, and how you make room for creativity in your day. Like if this inspired you! Comment your favorite look below! Share this with someone who loves aesthetics! Follow Miyora Aikari for daily fashion and beauty inspiration!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
